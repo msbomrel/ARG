@@ -1,0 +1,56 @@
+.inner_copy {border:0;color:#f00;float:left;width:50% !important;margin:-100% 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px}
+.fleft {float:left}
+.fright  {float:right}
+.fcenter {float:none;margin:0 auto;text-align:center}
+.fclear {clear:both}
+body {margin:5px;font-size:13px;font-family:arial;color:#222;background:#5298af}
+.outer {width:779px}
+.name {color:#444;font-size:32px;padding-left:20px;font-family:Tahoma}
+.links {color:#383838;line-height:30px;padding-left:20px;border-bottom:1px solid #E4E4E4;display:block;font-size:13px}
+.links:hover {color:#FF6600;text-transform:uppercase}
+.active {color:#FF6600;text-transform:uppercase;line-height:30px;padding-left:20px;border-bottom:1px solid #E4E4E4;display:block;font-size:13px}
+.heading1 {color:#383838;line-height:25px;padding-left:20px;font-weight:bold}
+.smal-txt {color:#333;font-family:tahoma;font-size:11px;text-align:justify;padding-right:5px}
+.more {font-family:tahoma;font-size:11px;font-weight:bold;background-repeat:no-repeat;padding-right:20px;text-align:right}
+.more a {color:#33AFD1;text-decoration:none}
+.more a:hover {color:#FF6600;text-decoration:underline}
+.heading2 {line-height:35px;font-size:20px;color:#5298af;padding-left:20px;background:#ecf4f6;display:compact}
+.main {padding:10px;text-align:justify}
+.rc1 {background-image:url(images/rc1.gif);background-repeat:no-repeat;height:150px;width:10px}
+.rc2 {background-image:url(images/rc2.gif);background-repeat:no-repeat;height:150px;width:10px}
+.slogan {height:25px}
+.news {font-family:tahoma;color:#fff;font-weight:bold;font-size:11px;text-align:center;background:#333;height:25px;line-height:25px;width:85px}
+.bottomlinks {color:#FF6600;width:110px;font-size:11px;font-weight:bold;text-align:center}
+.bottomlinks a {color:#FF6600}
+.bottomlinks a:hover {color:#fff}
+.sap2 {color:#fff;width:1px}
+a {color:#111;line-height:20px}
+a:hover {color:#009933}
+
+.bt_register {
+background:url("images/signinbutton.png") no-repeat scroll 0 0 transparent;
+    border: medium none;
+      color: white;
+    cursor: pointer;
+    display: block;
+     font-weight: bold;
+     height: 23px;
+	width:93px;
+	margin-left:160px;
+	
+    text-align: center;
+   
+}
+
+.bt_register1 {
+background:url("images/signinbutton.png") no-repeat scroll 0 0 transparent;
+    border: medium none;
+      color: white;
+    cursor: pointer;
+    display: block;
+     font-weight: bold;
+     height: 23px;
+	width:93px;
+	text-align: center;
+   
+}

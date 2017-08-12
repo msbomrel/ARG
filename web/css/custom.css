@@ -1,0 +1,45 @@
+* {
+.border-radius(0) !important;
+}
+
+#field {
+    margin-bottom:20px;
+}
+html,
+body {
+    height: 100%;
+}
+
+.container {
+    display: table;
+    height: 100%;
+}
+
+.block {
+    display: table-row;
+    height: 1px;
+}
+
+.push {
+    height: auto;
+}
+
+
+/*
+
+    Demo Styles
+
+*/
+
+.container {
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 100%;
+}
+
+.block:nth-child(odd) {
+    background: #eee;
+}
